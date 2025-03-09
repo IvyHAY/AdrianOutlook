@@ -1,0 +1,18 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Aiying Huang"
+  right:
+    - text: "About"
+      href: about.html
+    - text: "Biography"
+      href: biography.html
+    - text: "Dashboard"
+      href: dashboard.html  
+    - icon: fa-envelope fa-lg
+      href: mailto:<ah4167@cumc.columbia.edu>
+    - icon: fa-github fa-lg
+      href: http://github.com/IvyHAY
+output:
+  html_document:
+    theme: spacelab
